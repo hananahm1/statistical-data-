@@ -1,2 +1,2 @@
-# statistical-data-
-modeling stregth of window glass in aircrafts
+# statistical-data-analysis
+Modeling strength of window glass in aircraft
